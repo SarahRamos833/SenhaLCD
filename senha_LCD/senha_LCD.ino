@@ -1,5 +1,5 @@
-#include <Keypad.h>
-#include <LiquidCrystal.h>
+#include <Keypad.h> //biblioteca da matriz
+#include <LiquidCrystal.h> //biblioteca do display
 
 // Definição dos pinos do teclado numérico
 const byte ROWS = 4; // Número de linhas
